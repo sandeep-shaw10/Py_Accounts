@@ -57,8 +57,8 @@
     <br/>
     <h1>Sandeep Shaw</h1>
     <h4>Follow me on : </h4>
-    <p><a href="https://github.com/sandeep-shaw10" >Github</a> | <a href="https://www.instagram.com/san_deep_10/" >Instagram</a> | <a href="https://www.sololearn.com/Profile/15625221/" >Sololearn</a> | <a href="https://www.linkedin.com/in/sandeep-shaw-b47b47158/" >Linkedin</a></p>
-    <p>My website : <a href="https://sandeep-shaw10.github.io/sightexplore/">Sight Explore</a> </p>
+    <p><a href="https://github.com/sandeep-shaw10"  target="_blank">Github</a> | <a href="https://www.instagram.com/san_deep_10/"  target="_blank">Instagram</a> | <a href="https://www.sololearn.com/Profile/15625221/"  target="_blank">Sololearn</a> | <a href="https://www.linkedin.com/in/sandeep-shaw-b47b47158/"  target="_blank">Linkedin</a></p>
+    <p>My website : <a href="https://sandeep-shaw10.github.io/sightexplore/" target="_blank">Sight Explore</a> </p>
     
     
   </body>
