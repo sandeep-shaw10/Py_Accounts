@@ -1,6 +1,6 @@
 # PY_ACCOUNTS
 ![logo](https://github.com/sandeep-shaw10/Py_Accounts/blob/master/IMG_20201120_020008.jpg?raw=true)
-## LICENSE under [MIT LICENSE] (LICENSE)
+### LICENSE under the [MIT License](LICENSE).
 
 <html>
   <head>
